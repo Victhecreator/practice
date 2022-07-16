@@ -42,7 +42,7 @@ nav{
     max-width: 100%;
 }
 
-.pic{
+#pic{
     position: absolute;
     right: 0;
     top: 10;
